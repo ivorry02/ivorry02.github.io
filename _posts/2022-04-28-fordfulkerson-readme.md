@@ -55,7 +55,7 @@ Total : 5
 S -> B = 1  
 B -> E = 1  
 E -> T = 1  
-S0> B -> E -> T 경로에서 1을 흘려보냄.
+S0> B -> E -> T 경로에서 1을 흘려보냄.  
 Total : 6  
 
 ![](https://postfiles.pstatic.net/MjAyMjA0MjhfODAg/MDAxNjUxMTQ0MTgxMjcx.pIyZ63yiXoZ25YjnFLMGVGJkHEDH--p1xxWLMeifm5Ig.FnvRxOFDln1zqCfrSGOHxEWDMxU-2288C1Ic0hm4lhkg.PNG.kimsanga0430/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.PNG?type=w773)
